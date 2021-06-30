@@ -1,0 +1,33 @@
+Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\RedirectionRulesFile.txt'. 6/5/2021 10:21:19 PM
+Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\RedirectionRulesFile.txt'. 6/5/2021 10:21:27 PM
+Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\RedirectionRulesFile.txt'. 6/5/2021 10:21:46 PM
+Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\RedirectionRulesFile.txt'. 6/5/2021 10:22:13 PM
+Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\RedirectionRulesFile.txt'. 6/5/2021 10:24:10 PM
+0: Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\rdirectionRules.txt'. 6/5/2021 10:41:45 PM
+0: Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\rdirectionRules.txt'. 6/5/2021 10:41:48 PM
+0: Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\rdirectionRules.txt'. 6/5/2021 10:41:59 PM
+0: Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\rdirectionRules.txt'. 6/5/2021 10:42:42 PM
+0: Could not find file 'C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\rdirectionRules.txt'. 6/5/2021 10:42:50 PM
+0: Unable to find the specified file. 6/6/2021 12:08:20 AM
+0: Unable to find the specified file. 6/6/2021 2:51:17 AM
+0: An item with the same key has already been added. 6/6/2021 3:08:49 AM
+0: An item with the same key has already been added. 6/6/2021 3:08:52 AM
+0: Value cannot be null.
+Parameter name: path2 6/6/2021 4:09:15 AM
+0: Value cannot be null.
+Parameter name: path2 6/6/2021 4:11:08 AM
+0: Value cannot be null.
+Parameter name: path2 6/6/2021 4:11:40 AM
+0: Value cannot be null.
+Parameter name: path2 6/6/2021 4:12:27 AM
+0: Value cannot be null.
+Parameter name: path2 6/6/2021 4:15:15 AM
+0: Value cannot be null.
+Parameter name: path2 6/6/2021 4:15:52 AM
+0: Could not find file 'C:\main.html'. 6/6/2021 4:30:26 AM
+0: Unable to find the specified file. 6/6/2021 4:42:19 AM
+0: Unable to find the specified file. 6/6/2021 4:45:39 AM
+dumy data
+dumy data
+dumy data
+dumy data

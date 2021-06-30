@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Sockets\Sockets\Lab-7\Lab-7\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Sockets\Sockets\Lab-7\Lab-7\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\moh\Desktop\Project_Template and Required Files\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
